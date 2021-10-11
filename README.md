@@ -178,11 +178,11 @@ Parent Class | ? | ? | ?
 `sealed` | ? | ? | ?
 Polymorphism | ? | ? | ?
 `as` | ? | ? | ?
-`virtual` | Can be overriden in inheritng classes | ? | ?
+`virtual` | Can be overriden in inheritng classes. | ? | ?
 `override` | ? | ? | ?
 `base` | ? | ? | ?
 Abstraction | ? | ? | ?
-`abstract` | ? | ? | ?
+`abstract` | Must be overriden in inheritng classes. | ? | ?
 Implementation | ? | ? | ?
 Composition | ? | ? | ?
 "Composition over Inheritance" | ? | ? | ?
