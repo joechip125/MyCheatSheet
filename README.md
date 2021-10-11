@@ -178,7 +178,7 @@ Parent Class | ? | ? | ?
 `sealed` | ? | ? | ?
 Polymorphism | ? | ? | ?
 `as` | ? | ? | ?
-`virtual` | ? | ? | ?
+`virtual` | Can be overriden in inheritng classes | ? | ?
 `override` | ? | ? | ?
 `base` | ? | ? | ?
 Abstraction | ? | ? | ?
